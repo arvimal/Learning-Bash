@@ -1,6 +1,5 @@
 # Learning-Bash
 
-Scripts written while refreshing Bash.
+Scripts written while learning/refreshing Bash.
 
-Some old scripts are included, written 10-11 years back,
-while working in Web-Hosting.
+Most of the these were written in 2005, while working in Web Hosting.
